@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: center !important;
+    font-weight: bold;
+    color:white;
+}
+
+
+.navbarBrand {
+    flex:1;
+    display: flex;
+    justify-content: center;
+   
+}   
+
+.profileContent{
+    
+}
