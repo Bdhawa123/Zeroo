@@ -1,5 +1,5 @@
 .bodyBackg{
-    background-image: linear-gradient(to bottom right, rgba(255, 200, 74,1), rgba(255, 158, 74,0));
+    /* background-image: linear-gradient(to bottom right, rgb(236, 233, 225), rgba(255, 158, 74,0)); */
     height: 100vh;
 }
 
@@ -15,20 +15,39 @@
 .textContainer{
     display: flex;
     flex-direction: column;
-    border:1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex: 2;
+    flex: 2.5;
 }
 
 .ProductContainer {
     display: flex;
     flex-direction: column;
-    border:1px solid black;
     align-items: center;
     justify-content: center;
-    flex:1
+    flex:1.5;
+    margin-right: 3%;
     
 }
+.ImgContainer{
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+ /* flex: 1; */
+}
+
+.displayImg1 {
+   width: 25%;
+   height: 50%;
+   margin:1%;
+   transition: all, .5s ease-in-out;
+   opacity: 0.80;
    
+ /* Positive flex-shrink */
+}
+
+.displayImg1:hover{
+    transform: scale(1.25);
+    opacity: 1;
+}
