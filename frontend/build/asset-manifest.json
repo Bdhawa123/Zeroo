@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Zeroo/static/css/main.46ff2a91.chunk.css",
+    "main.js": "/Zeroo/static/js/main.18748ffe.chunk.js",
+    "main.js.map": "/Zeroo/static/js/main.18748ffe.chunk.js.map",
+    "runtime-main.js": "/Zeroo/static/js/runtime-main.00992bfa.js",
+    "runtime-main.js.map": "/Zeroo/static/js/runtime-main.00992bfa.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/Zeroo/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.4ea8b565.chunk.js": "/Zeroo/static/js/2.4ea8b565.chunk.js",
+    "static/js/2.4ea8b565.chunk.js.map": "/Zeroo/static/js/2.4ea8b565.chunk.js.map",
+    "index.html": "/Zeroo/index.html",
+    "precache-manifest.62186c27347b2cae85edba05618db075.js": "/Zeroo/precache-manifest.62186c27347b2cae85edba05618db075.js",
+    "service-worker.js": "/Zeroo/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/Zeroo/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.46ff2a91.chunk.css.map": "/Zeroo/static/css/main.46ff2a91.chunk.css.map",
+    "static/js/2.4ea8b565.chunk.js.LICENSE.txt": "/Zeroo/static/js/2.4ea8b565.chunk.js.LICENSE.txt",
+    "static/media/cleansing_cloth.jpeg": "/Zeroo/static/media/cleansing_cloth.d897a034.jpeg",
+    "static/media/daycream_71.jpeg": "/Zeroo/static/media/daycream_71.dbdc5117.jpeg",
+    "static/media/foaming_cleanser.jpeg": "/Zeroo/static/media/foaming_cleanser.393452f2.jpeg",
+    "static/media/luminous_whip.jpeg": "/Zeroo/static/media/luminous_whip.808c512a.jpeg",
+    "static/media/miracle_boost.jpeg": "/Zeroo/static/media/miracle_boost.a01042df.jpeg",
+    "static/media/moisturising_lotion.jpeg": "/Zeroo/static/media/moisturising_lotion.27b8700f.jpeg",
+    "static/media/night_cream.jpeg": "/Zeroo/static/media/night_cream.ea5ab546.jpeg",
+    "static/media/sc1.jpg": "/Zeroo/static/media/sc1.2aff9146.jpg",
+    "static/media/sc5.jpg": "/Zeroo/static/media/sc5.a6dda471.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00992bfa.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.4ea8b565.chunk.js",
+    "static/css/main.46ff2a91.chunk.css",
+    "static/js/main.18748ffe.chunk.js"
+  ]
+}
