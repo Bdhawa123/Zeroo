@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Zeroo/static/css/main.46ff2a91.chunk.css",
-    "main.js": "/Zeroo/static/js/main.2017e500.chunk.js",
-    "main.js.map": "/Zeroo/static/js/main.2017e500.chunk.js.map",
+    "main.css": "/Zeroo/static/css/main.c85f095d.chunk.css",
+    "main.js": "/Zeroo/static/js/main.06b48313.chunk.js",
+    "main.js.map": "/Zeroo/static/js/main.06b48313.chunk.js.map",
     "runtime-main.js": "/Zeroo/static/js/runtime-main.00992bfa.js",
     "runtime-main.js.map": "/Zeroo/static/js/runtime-main.00992bfa.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/Zeroo/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.85bbf887.chunk.js": "/Zeroo/static/js/2.85bbf887.chunk.js",
-    "static/js/2.85bbf887.chunk.js.map": "/Zeroo/static/js/2.85bbf887.chunk.js.map",
+    "static/js/2.f169817a.chunk.js": "/Zeroo/static/js/2.f169817a.chunk.js",
+    "static/js/2.f169817a.chunk.js.map": "/Zeroo/static/js/2.f169817a.chunk.js.map",
     "index.html": "/Zeroo/index.html",
-    "precache-manifest.c8ec4428a3520672b2c473d63e1bfb64.js": "/Zeroo/precache-manifest.c8ec4428a3520672b2c473d63e1bfb64.js",
+    "precache-manifest.1c64c45cd0fa992d1165a0b63c06eb77.js": "/Zeroo/precache-manifest.1c64c45cd0fa992d1165a0b63c06eb77.js",
     "service-worker.js": "/Zeroo/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/Zeroo/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.46ff2a91.chunk.css.map": "/Zeroo/static/css/main.46ff2a91.chunk.css.map",
-    "static/js/2.85bbf887.chunk.js.LICENSE.txt": "/Zeroo/static/js/2.85bbf887.chunk.js.LICENSE.txt",
+    "static/css/main.c85f095d.chunk.css.map": "/Zeroo/static/css/main.c85f095d.chunk.css.map",
+    "static/js/2.f169817a.chunk.js.LICENSE.txt": "/Zeroo/static/js/2.f169817a.chunk.js.LICENSE.txt",
     "static/media/cleansing_cloth.jpeg": "/Zeroo/static/media/cleansing_cloth.d897a034.jpeg",
     "static/media/daycream_71.jpeg": "/Zeroo/static/media/daycream_71.dbdc5117.jpeg",
     "static/media/foaming_cleanser.jpeg": "/Zeroo/static/media/foaming_cleanser.393452f2.jpeg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.00992bfa.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.85bbf887.chunk.js",
-    "static/css/main.46ff2a91.chunk.css",
-    "static/js/main.2017e500.chunk.js"
+    "static/js/2.f169817a.chunk.js",
+    "static/css/main.c85f095d.chunk.css",
+    "static/js/main.06b48313.chunk.js"
   ]
 }

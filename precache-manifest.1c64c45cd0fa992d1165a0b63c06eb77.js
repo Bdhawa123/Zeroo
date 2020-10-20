@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34b38e2cc1a44a2760bc257f9dfe9f69",
+    "revision": "81db73351b5a5724cf821e0a4bf5ee34",
     "url": "/Zeroo/index.html"
   },
   {
-    "revision": "fd85de86869fa463164c",
+    "revision": "0d70d097054716a02f12",
     "url": "/Zeroo/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "ed7cd178d22248b90f64",
-    "url": "/Zeroo/static/css/main.46ff2a91.chunk.css"
+    "revision": "359e104b037888ca0e38",
+    "url": "/Zeroo/static/css/main.c85f095d.chunk.css"
   },
   {
-    "revision": "fd85de86869fa463164c",
-    "url": "/Zeroo/static/js/2.85bbf887.chunk.js"
+    "revision": "0d70d097054716a02f12",
+    "url": "/Zeroo/static/js/2.f169817a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Zeroo/static/js/2.85bbf887.chunk.js.LICENSE.txt"
+    "url": "/Zeroo/static/js/2.f169817a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed7cd178d22248b90f64",
-    "url": "/Zeroo/static/js/main.2017e500.chunk.js"
+    "revision": "359e104b037888ca0e38",
+    "url": "/Zeroo/static/js/main.06b48313.chunk.js"
   },
   {
     "revision": "3abb6e66698a125de537",
