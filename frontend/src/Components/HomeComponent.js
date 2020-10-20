@@ -41,8 +41,9 @@ const HomeComponent = ()=>{
             </div>
 
             <div ref= {scrollRef} className='scrollSty' >
-                <ProductSelection/>
+                <ProductSelection priceLimit='50'/>
             </div>
+                
             
         </div>
     )

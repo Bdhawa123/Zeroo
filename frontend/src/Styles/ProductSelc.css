@@ -10,13 +10,20 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin:2%;
 }
 
 .ImageList{
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
 
+}
+
+.infoBtn {
+    align-self: center;
+    width: 20%;
 }
 
 img {
@@ -46,6 +53,20 @@ img:hover {
     transition: all, .3s ease-in-out;
 }
 
+.endpg {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color:white;
+
+}
+
+.rightEnd {
+    /* display: flex; */
+    font-weight: bold;
+    margin-left: 3%;
+}
+
 .nxtBtn {
     display: flex;
     justify-content: center;
@@ -53,6 +74,7 @@ img:hover {
     height: 32px;
     align-items: center;
     align-self: end;
+    margin-left: auto;
     margin-right: 1.5%;
     margin-top:3%;
     margin-bottom: 3%;
@@ -68,6 +90,7 @@ img:hover {
     background-color: rgb(65, 48, 77) !important;
     color:white !important;
 }
+
 
 
 

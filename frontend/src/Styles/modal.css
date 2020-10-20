@@ -1,0 +1,15 @@
+.productList {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 8%;
+    margin-left: 8%;
+    flex-direction: row;
+}
+
+.endModal {
+  display: flex;
+  align-self: center;
+  font-weight: 900;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}

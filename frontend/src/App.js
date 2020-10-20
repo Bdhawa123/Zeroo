@@ -1,6 +1,6 @@
 import React from 'react';
 import HomeComponent from './Components/HomeComponent';
-import {BrowserRouter,Switch,Route, HashRouter} from 'react-router-dom';
+import {Switch,Route, HashRouter} from 'react-router-dom';
 import Nav from './Components/Nav';
 import 'bootstrap/dist/css/bootstrap.css';
 
